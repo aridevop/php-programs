@@ -1,5 +1,5 @@
 <?php
-// Swapping the first and last digits using php
+// Swapping the first and last character of a string using php
 $p="12345";
 $len=strlen($p);
 $sst=substr($p,1,$len-2);
